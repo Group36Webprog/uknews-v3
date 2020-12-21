@@ -2,7 +2,7 @@ Group: 36
 
 Members: Huzefa Ishtiaq(h.ishtiaq@se16.qmul.ac.uk), Jeevan Chana(j.chana@se16.qmul.ac.uk)
 
-Deployed App URL: http://group36-group36.apps.okd.eecs.qmul.ac.uk
+Deployed App URL: 
 
 Admin Username: Huzefa
 Admin Password: UKNews
